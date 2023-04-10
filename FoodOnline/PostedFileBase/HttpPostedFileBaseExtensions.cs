@@ -89,6 +89,7 @@ namespace FoodOnline.PostedFileBase
                 postedFile.InputStream.Position = 0;
             }
 
+
             return true;
         }
     }
